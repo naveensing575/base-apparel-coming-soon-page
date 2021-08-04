@@ -20,7 +20,7 @@ body
     z-index: -1;
     margin-left: -18rem;
     height: 100%;
-    width: 63%;
+    width: 125vh;
 }
 .hero-container {
     display: flex;
